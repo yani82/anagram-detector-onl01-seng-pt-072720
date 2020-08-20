@@ -15,8 +15,4 @@ class Anagram
   matches
 end
   
-    
-    %w(some words)
-  end 
-  
 end
